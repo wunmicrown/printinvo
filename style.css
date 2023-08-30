@@ -5,6 +5,8 @@
     cursor: pointer;
     
 }
+
+
 .li{
     list-style: none;
     
@@ -22,6 +24,7 @@
 .gg{
     background-color: rgb(247,246,244);
     height: 9vh;
+
 }
 
 .gg a{
@@ -98,8 +101,10 @@ li{
     color: wheat;
     display: flex;
     justify-content: end;
+    margin-top: 10px;
     width: 100%;
     gap: 3%;
+    height: 10vh;
 } 
 
 .go{
